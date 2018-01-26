@@ -1,0 +1,7 @@
+[package]
+name = "ndarray_expr"
+version = "0.1.0"
+authors = ["Jim Turner <ndarray_expr@turner.link>"]
+
+[dependencies]
+ndarray = "0.11"
